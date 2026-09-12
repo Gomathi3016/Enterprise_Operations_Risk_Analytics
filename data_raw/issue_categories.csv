@@ -1,0 +1,9 @@
+Category_ID,Issue_Category
+1,Data Quality
+2,Process Delay
+3,System Error
+4,Documentation
+5,Compliance
+6,Access
+7,Transaction Error
+8,Performance
